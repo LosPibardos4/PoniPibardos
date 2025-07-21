@@ -99,3 +99,5 @@ home/codespace/.python/current/bin/python "/workspaces/PoniPibardos/msx (1).py"<
 [01:34:49] [User Authenticator #2/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [01:35:07] [Server thread/INFO]: Santix15 joined the game
 [01:35:07] [Server thread/INFO]: Santix15[/127.19.82.212:45679] logged in with entity id 13948 at ([world]-957.6999999880791, 182.0, -191.59054425781932)
+[01:49:44] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:chest 1
+[01:49:44] [Server thread/INFO]: [Santix15: Gave 1 [Chest] to Santix15]
