@@ -103,3 +103,8 @@ home/codespace/.python/current/bin/python "/workspaces/PoniPibardos/msx (1).py"<
 [01:49:44] [Server thread/INFO]: [Santix15: Gave 1 [Chest] to Santix15]
 [02:01:41] [Server thread/INFO]: Santix15 lost connection: Timed out
 [02:01:41] [Server thread/INFO]: Santix15 left the game
+[04:14:27] [User Authenticator #3/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[04:14:29] [Server thread/INFO]: lobo3224 joined the game
+[04:14:29] [Server thread/INFO]: lobo3224[/127.93.121.237:57641] logged in with entity id 17573 at ([world]-162.21431313750244, 29.0, 727.1730134532617)
+[04:17:13] [Server thread/INFO]: lobo3224 issued server command: /skin lobo22244
+[04:17:23] [Server thread/INFO]: lobo3224 issued server command: /skin lobo3224
