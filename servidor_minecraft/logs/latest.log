@@ -101,3 +101,5 @@ home/codespace/.python/current/bin/python "/workspaces/PoniPibardos/msx (1).py"<
 [01:35:07] [Server thread/INFO]: Santix15[/127.19.82.212:45679] logged in with entity id 13948 at ([world]-957.6999999880791, 182.0, -191.59054425781932)
 [01:49:44] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:chest 1
 [01:49:44] [Server thread/INFO]: [Santix15: Gave 1 [Chest] to Santix15]
+[02:01:41] [Server thread/INFO]: Santix15 lost connection: Timed out
+[02:01:41] [Server thread/INFO]: Santix15 left the game
