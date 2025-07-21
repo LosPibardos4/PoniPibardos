@@ -83,3 +83,8 @@ home/codespace/.python/current/bin/python "/workspaces/PoniPibardos/msx (1).py"<
 [00:32:37] [Server thread/INFO]: Santix15[/127.19.82.212:60339] logged in with entity id 22 at ([world]-952.3584893068345, 182.0, -191.58565810652814)
 [00:40:15] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
 [00:40:15] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[00:44:30] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[00:44:30] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[00:44:37] [Server thread/INFO]: Santix15 issued server command: /time set day
+[00:44:37] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[00:49:02] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.26764853512599984
